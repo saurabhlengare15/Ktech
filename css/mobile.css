@@ -1,0 +1,160 @@
+#navbar h1,h4{
+    display: none;
+}
+
+#navbar ul{
+    text-align: center;
+    float: none;
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+#navbar ul li{
+    float: none;
+    text-align: center;
+    display: inline-block;
+}
+
+#navbar ul li a{
+    display: block;
+    padding:15px;
+    font-size: 15px;
+}
+
+/* showcase */
+#showcase .showcase-content{
+    padding-left: 20px;
+}
+
+#showcase .showcase-content h1{
+    font-size: 50px;
+}
+
+#showcase .showcase-content p.subhead{
+    font-size: 25px;
+}
+
+#showcase .showcase-content a.borderbtn{
+    font-size: 18px;
+    border: 2px solid #ffffff;
+    padding: 10px 25px;
+}
+
+/* Info */
+#info{
+    padding: 40px 0;
+}
+
+#info h1{
+    font-size: 26px;
+}
+
+#info p.orange{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+/* Products */
+#products .heading{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+/* Expert */
+#expert .expert{
+    float: none;
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+
+#expert .expert p.orange{
+    font-size: 26px;
+}
+
+#expert .expert p.white{
+    font-size: 22px;
+}
+
+/* Form */
+#form img{
+    display: none;
+}
+#form .contact-form{
+    float: none;
+    width: 100%;
+    height: 500px;
+}
+
+#form .btn{
+    width: 80%;
+    padding:10px 20px;
+    margin-top: 70px;
+    font-size: 16px;
+}
+
+/* work */
+#work{
+    padding: 20px 0px;
+}
+
+#work p.white{
+    font-size: 20px;
+}
+
+#work a.blue{
+    position: absolute;
+    top: 15px;
+    left: 320px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+#work a.white{
+    position: absolute;
+    font-size: 12px;
+    top: 20px;
+    left: 315px;
+    padding: 5px;
+}
+
+/* links */
+#links .boxes{
+    display: block;
+}
+
+#links .item{
+    text-align: center;
+    border-bottom: 1px solid #f3f3f3;
+}
+
+#links .item:last-child{
+    border-bottom: none;
+}
+
+#links p{
+    font-size: 15px;
+}
+
+#links .heading{
+    font-size: 17px; 
+}
+
+#links input{
+    padding: 10px;
+}
+
+#links button{
+    padding: 10px;
+    margin-left: -5px;
+}
+
+/* Footer */
+footer{
+    padding: 15px 40px;
+}
+
+footer p{
+    font-size: 14px;
+}
